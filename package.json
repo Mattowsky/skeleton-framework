@@ -1,0 +1,25 @@
+{
+  "name": "skeleton-framework",
+  "version": "1.0.0",
+  "description": "Skeleton Framework npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Mroz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattowsky/skeleton-framework.git"
+  },
+  "keywords": [
+    "skeleton-framework",
+    "html5",
+    "frameworks",
+    "front-end"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mattowsky/skeleton-framework/issues"
+  },
+  "homepage": "https://github.com/Mattowsky/skeleton-framework#readme"
+}
