@@ -1,25 +1,22 @@
 {
   "name": "skeleton-framework",
   "version": "1.0.0",
-  "description": "Skeleton Framework npm package",
+  "description": "HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mateusz Mroz",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mattowsky/skeleton-framework.git"
   },
-  "keywords": [
-    "skeleton-framework",
-    "html5",
-    "frameworks",
-    "front-end"
-  ],
+  "author": "Mateusz Mroz",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mattowsky/skeleton-framework/issues"
   },
-  "homepage": "https://github.com/Mattowsky/skeleton-framework#readme"
+  "homepage": "https://github.com/Mattowsky/skeleton-framework#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
